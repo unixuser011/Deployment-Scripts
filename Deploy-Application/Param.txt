@@ -1,1 +1,1 @@
-Deploy-Application.exe -DeploymentType Install -DeployMode Slient -UpdateSince 60 -Reboot No
+Deploy-Application.ps1 -DeploymentType Install -DeployMode Slient -UpdateSince 60 -Reboot No
